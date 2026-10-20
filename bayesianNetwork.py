@@ -118,9 +118,3 @@ class BayesianNetwork:
         plt.show()
 
 
-class CPT:
-
-    def __init__ (self,node, table):
-        self.node = node
-        self.table = table
-        self.validate
